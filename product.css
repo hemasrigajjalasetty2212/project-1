@@ -1,0 +1,36 @@
+.card{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(31, 18, 18);
+    float: left;
+    margin-left: 50px;
+
+}
+.img-size{
+    width: 400px;
+    height: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.back1{
+    background-color: rgb(16, 208, 241);
+    padding: 23px;
+    color: aliceblue;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: -3px;
+}
+button{
+    background-color: brown;
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

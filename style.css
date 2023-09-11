@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(18, 230, 230);
+    padding: 10px;
+}
+
+.change_style{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin-left: 50px;
+    color: rgb(27, 65, 238);
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}

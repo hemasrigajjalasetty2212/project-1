@@ -1,0 +1,33 @@
+.parent-1{
+    border: 5px solid rgb(66, 235, 32);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+    position: relative;
+    color: aliceblue;
+}
+.para-2{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.img-wid{
+    height: 300px;
+    width: 300px;
+}
+.parent-2{
+    border: 5px solid coral;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+    position: relative;
+    color: aliceblue;
+}
+.background-image{
+    background-image: url("https://images.pexels.com/photos/1799904/pexels-photo-1799904.jpeg?cs=srgb&dl=pexels-luis-quintero-1799904.jpg&fm=jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
